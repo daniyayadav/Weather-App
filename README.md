@@ -22,5 +22,24 @@ A simple and responsive **Weather Application** built using **HTML, CSS, and Jav
 - **JavaScript (ES6)** – Logic & API integration  
 - **OpenWeatherMap API** – Weather data  
 
+---
+
+## 📚 What I Learned
+
+- Fetching data from REST APIs  
+- Using async/await in JavaScript  
+- DOM manipulation  
+- Debugging JavaScript errors  
+- Frontend project structuring  
+
+---
+
+## 🔮 Future Enhancements
+
+- 🌈 Dynamic weather icons based on conditions  
+- 📍 Current location weather using Geolocation API  
+- 🌙 Dark / Light mode  
+- 📱 Better mobile responsiveness  
+
 
 
